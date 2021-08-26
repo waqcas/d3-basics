@@ -3,3 +3,7 @@ Mutation Function
 Access Function
 Iteration Function
 ----------------
+
+iterable - array
+
+---------------
