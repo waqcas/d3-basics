@@ -4,6 +4,17 @@ Access Function
 Iteration Function
 ----------------
 
-iterable - array
+iterable .... like arrays
 
 ---------------
+-------------------------------
+Modules
+Files get bigger... which grows complexity... 
+when a big file is divided into smaller files... these small files are modules...
+Modules are part of ES6... import export syntax
+
+Components
+Components are React specific concept
+
+-------------------------------
+
